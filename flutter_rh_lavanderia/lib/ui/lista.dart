@@ -38,7 +38,6 @@ class _ListaState extends State<Lista> {
           content: Text(
             'Cargo: ${f['cargo']}\n'
             'Salário: R\$ ${f['salario'].toStringAsFixed(2)}\n'
-            'Data: ${f['dataContatacao']}',
           ),
           actions: [
             TextButton(
@@ -68,7 +67,6 @@ class _ListaState extends State<Lista> {
                   leading: Icon(Icons.person),
                   title: Text(f['nome']),
                   subtitle: Text(f['cargo']),
-                  
                   onTap: () => mostrarFuncionario(f),
                 );
               },

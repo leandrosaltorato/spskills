@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Caneta",
+        "descricao": "Caneta Bic Azul",
+        "img": "https://images.tcdn.com.br/img/img_prod/1140357/caneta_esferografica_bic_cristal_dura_mais_azul_ponta_media_de_1_0mm_2637_2_0156dd57ba414a1c3af6683b4614af4f.jpg",
+        "preco": 3.99
+    },
+    {
+        "id": 2,
+        "nome": "Caneta",
+        "descricao": "Caneta Bic Preta",
+        "img": "https://images.tcdn.com.br/img/img_prod/1140357/caneta_esferografica_bic_cristal_dura_mais_azul_ponta_media_de_1_0mm_2637_2_0156dd57ba414a1c3af6683b4614af4f.jpg",
+        "preco": 3.99
+    },
+    {
+        "id": 3,
+        "nome": "Caneta",
+        "descricao": "Caneta Bic Vermelha",
+        "img": "https://images.tcdn.com.br/img/img_prod/1140357/caneta_esferografica_bic_cristal_dura_mais_azul_ponta_media_de_1_0mm_2637_2_0156dd57ba414a1c3af6683b4614af4f.jpg",
+        "preco": 3.99
+    },
+    {
+        "id": 4,
+        "nome": "Lápis",
+        "descricao": "Lápis grafite HB",
+        "img": "https://images.tcdn.com.br/img/img_prod/1220230/lapis_grafite_hb_sextavado_n_02_leo_amp_leo_1849_1_e244c90c19858f50f8f425ade0251d7a.jpg",
+        "preco": 2.50
+    },
+    {
+        "id": 5,
+        "nome": "Lápis preto",
+        "descricao": "Lápis grafite HB",
+        "img": "https://images.tcdn.com.br/img/img_prod/1220230/lapis_grafite_hb_sextavado_n_02_leo_amp_leo_1849_1_e244c90c19858f50f8f425ade0251d7a.jpg",
+        "preco": 2.50
+    },
+    {
+        "id": 6,
+        "nome": "Caderno",
+        "descricao": "Caderno universitário 200 folhas",
+        "img": "",
+        "preco": 24.90
+    },
+    {
+        "id": 7,
+        "nome": "Borracha",
+        "descricao": "Borracha branca escolar",
+        "img": "https://b2bleonorashop.vtexassets.com/arquivos/ids/159735/borracha-branca-4419-2.png?v=637939418331430000",
+        "preco": 1.99
+    },
+    {
+        "id": 8,
+        "nome": "Apontador",
+        "descricao": "Apontador com depósito",
+        "img": "https://images.tcdn.com.br/img/img_prod/1226139/apontador_com_deposito_cis_410_31_4300_1265_1_34a336ba9c61f95cf923dec3c0f7986f.jpg",
+        "preco": 4.50
+    },
+    {
+        "id": 9,
+        "nome": "Marca Texto",
+        "descricao": "Marca texto amarelo fluorescente",
+        "img": "https://s3.amazonaws.com/lepok.w/produtos/produtos/10258_2.webp",
+        "preco": 5.90
+    },
+    {
+        "id": 10,
+        "nome": "Régua",
+        "descricao": "Régua plástica 30cm",
+        "img": "https://s3.amazonaws.com/lepok.w/produtos/produtos/02957.webp",
+        "preco": 6.75
+    }
+]
