@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/689f38ab7db4f5e12a64c5ae_Zola-2.jpg",
+    "nome": "Mariana Souza",
+    "cargo": "Atendente",
+    "salario": 1850.50,
+    "dataContatacao": "2022-03-15"
+  },
+  {
+    "id": 2,
+    "avatar": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/689f36244b9da2b6e44e1074_Ryan-7.jpg",
+    "nome": "Carlos Pereira",
+    "cargo": "Lavador",
+    "salario": 2100.00,
+    "dataContatacao": "2021-11-02"
+  },
+  {
+    "id": 3,
+    "avatar": "https://blog.unyleya.edu.br/wp-content/uploads/2019/07/298696-conheca-os-4-principais-tipos-de-perfis-profissionais.jpg",
+    "nome": "Fernanda Lima",
+    "cargo": "Passadeira",
+    "salario": 1950.75,
+    "dataContatacao": "2023-01-20"
+  },
+  {
+    "id": 4,
+    "avatar": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/689f36244b9da2b6e44e1074_Ryan-7.jpg",
+    "nome": "João Batista",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "dataContatacao": "2020-08-10"
+  },
+  {
+    "id": 5,
+    "avatar": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d70e/689f384acdea20964ae30ac1_Zola.jpg",
+    "nome": "Aline Rocha",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1700.00,
+    "dataContatacao": "2024-02-05"
+  },
+  {
+    "id": 6,
+    "avatar": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2016/07/05/59394a24-6515-45b3-981b-bf2a2177e46a.jpg",
+    "nome": "Ricardo Alves",
+    "cargo": "Motorista",
+    "salario": 2200.30,
+    "dataContatacao": "2022-07-18"
+  },
+  {
+    "id": 7,
+    "avatar": "https://i.pinimg.com/originals/d6/f1/dd/d6f1dd3958b49111abc0b2ec3b9645ce.jpg",
+    "nome": "Patrícia Gomes",
+    "cargo": "Atendente",
+    "salario": 1820.00,
+    "dataContatacao": "2023-06-12"
+  },
+  {
+    "id": 8,
+    "avatar": "https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyZmlsfGVufDB8fDB8fHww",
+    "nome": "Eduardo Martins",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2800.90,
+    "dataContatacao": "2021-04-25"
+  },
+  {
+    "id": 9,
+    "avatar": "https://blog.unyleya.edu.br/wp-content/uploads/2019/07/298696-conheca-os-4-principais-tipos-de-perfis-profissionais.jpg",
+    "nome": "Juliana Freitas",
+    "cargo": "Passadeira",
+    "salario": 2000.00,
+    "dataContatacao": "2022-09-30"
+  },
+  {
+    "id": 10,
+    "avatar": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hc2N1bGlub3xlbnwwfHwwfHx8MA%3D%3D",
+    "nome": "Lucas Ribeiro",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1750.60,
+    "dataContatacao": "2024-05-14"
+  }
+]

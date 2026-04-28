@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_splashscreen/ui/screen.dart';
 
 class Home extends StatelessWidget {
-  final String? title;
+  final String title;
   const Home({super.key, this.title});
 
   @override
